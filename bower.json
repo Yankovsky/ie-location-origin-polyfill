@@ -1,0 +1,19 @@
+{
+  "name": "ie-location-origin-polyfill",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Yankovsky/ie-location-origin-polyfill",
+  "authors": [
+    "Yankovsky Andrey <YankovskyAndrey@gmail.com>"
+  ],
+  "description": "window.location.origin polyfill for older IE versions",
+  "main": "ie-location-origin-polyfill.js",
+  "keywords": [
+    "location",
+    "origin",
+    "polyfill",
+    "ie8",
+    "ie9",
+    "ie10"
+  ],
+  "license": "MIT"
+}
