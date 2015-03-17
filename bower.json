@@ -16,8 +16,7 @@
     "ie10"
   ],
   "ignore": [
-    "bower.json",
-	"README.md"
+    "README.md"
   ],
   "license": "MIT"
 }
